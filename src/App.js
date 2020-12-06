@@ -2,7 +2,27 @@ import React, { useState } from "react";
 import "./styles.css";
 
 const emojiDict = {
-  "🏁": "Chequered Flag"
+  "🍇": "Grapes",
+  "🍈": "Melon",
+  "🍉": "Watermelon",
+  "🍊": "Tangerine",
+  "🍋": "Lemon",
+  "🍌": "Banana",
+  "🍍": "Pineapple",
+  "🥭": "Mango",
+  "🍎": "Red Apple",
+  "🍏": "Green Apple",
+  "🍐": "Pear",
+  "🍑": "Peach",
+  "🍒": "Cherries",
+  "🍓": "Strawberry",
+  "🥝": "Kiwi Fruit",
+  "🍅": "Tomato",
+  "🥥": "Coconut",
+  "🥑": "Avocado",
+  "🍆": "Eggplant",
+  "🥔": "Potato",
+  "🥕": "Carrot"
 };
 
 const emojiArray = Object.keys(emojiDict);
