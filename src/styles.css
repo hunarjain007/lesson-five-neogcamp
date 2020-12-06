@@ -2,3 +2,15 @@
   font-family: sans-serif;
   text-align: center;
 }
+
+input {
+  width: 60%;
+}
+
+div {
+  margin: 1rem;
+}
+
+span {
+  padding: 1rem;
+}
