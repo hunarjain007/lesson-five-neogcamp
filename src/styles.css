@@ -11,6 +11,12 @@ div {
   margin: 1rem;
 }
 
+.fruits {
+  width: 60%;
+  margin: auto;
+  padding: 1.5rem;
+}
+
 span {
-  padding: 1rem;
+  padding: 0.5rem;
 }

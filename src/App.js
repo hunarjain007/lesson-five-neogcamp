@@ -47,7 +47,7 @@ export default function App() {
     <div className="App">
       <h1>Emoji Interpreter</h1>
       <input onChange={(event) => onChangeHandler(event.target.value)}></input>
-      <div>
+      <div className="fruits">
         {emojiArray.map((emoji) => {
           return (
             <span key={emoji} onClick={onClickHandler}>
