@@ -1,2 +1,2 @@
 # lesson-five-neogcamp
-Created with CodeSandbox
+Emoji Interpreter but for Fruits.
